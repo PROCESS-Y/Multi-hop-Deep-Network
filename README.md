@@ -5,7 +5,7 @@
 *在原数据上测试时录制的视频：IRDST测试视频2024-03-18_06-25-56.mkv  
 *在新数据IRDST上测试时录制的视频：IRDST测试视频2024-03-18_06-25-56.mkv  
 *为了直观对比所有方法在测试集上的表现，制作了一个GIF：  
-<center>![image](https://github.com/PROCESS-Y/Multi-hop-Deep-Network/raw/main/result.gif)</center>  
+<center>![image](https://media.githubusercontent.com/media/PROCESS-Y/Multi-hop-Deep-Network/main/result.gif)</center>  
 
 注：  
 1. 由于修稿时间紧张, 不排除因QT封装等算法设计以外的问题，造成程序卡顿；  
