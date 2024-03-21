@@ -4,7 +4,7 @@
 其他资源分别为:   
 *在原数据上测试时录制的视频：IRDST测试视频2024-03-18_06-25-56.mkv  
 *在新数据IRDST上测试时录制的视频：IRDST测试视频2024-03-18_06-25-56.mkv  
-*为了直观对比所有方法在测试集上的表现，制作了一个GIF：  
+*为了直观对比所有方法在测试集上的表现，制作了一个GIF:  
 <center>![gif](https://media.githubusercontent.com/media/PROCESS-Y/Multi-hop-Deep-Network/main/result.gif)</center>   
 
 注：  
