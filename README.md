@@ -6,6 +6,7 @@
 *在新数据IRDST上测试时录制的视频：IRDST测试视频2024-03-18_06-25-56.mkv  
 *为了直观对比所有方法在测试集上的表现，制作了一个GIF:  
 <center>![gif](https://media.githubusercontent.com/media/PROCESS-Y/Multi-hop-Deep-Network/main/result.gif)</center>   
+![](http://guangyuan.dsmynas.com:10003/i/2024/03/21/65fb95792a62b.gif)  
 
 注：  
 1. 由于修稿时间紧张, 不排除因QT封装等算法设计以外的问题，造成程序卡顿；  
